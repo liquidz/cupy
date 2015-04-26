@@ -1,4 +1,4 @@
-# cupy
+# cupy [![Circle CI](https://circleci.com/gh/liquidz/cupy.svg?style=svg)](https://circleci.com/gh/liquidz/cupy)
 
 Generate a text file from a template file and data files.
 
